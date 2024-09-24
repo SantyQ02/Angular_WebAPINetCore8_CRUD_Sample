@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 129.0.0.0 (Mac OS 10.15.7)" package="" timestamp="2024-09-24T15:54:44" id="0" hostname="Santiagos-MBP" tests="10" errors="0" failures="0" time="0.05">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/129.0.0.0 Safari/537.36"/>
+  </properties>
+  <testcase name="AddemployeeComponent should not display errors for valid name" time="0.029" classname="AddemployeeComponent"/>
+  <testcase name="AddemployeeComponent should display error if name is just spaces" time="0.002" classname="AddemployeeComponent"/>
+  <testcase name="AddemployeeComponent should display error if name has more than 100 characters" time="0.001" classname="AddemployeeComponent"/>
+  <testcase name="AddemployeeComponent should create" time="0.001" classname="AddemployeeComponent"/>
+  <testcase name="AddemployeeComponent should display error if name is empty" time="0.002" classname="AddemployeeComponent"/>
+  <testcase name="AddemployeeComponent should display error if name has numbers" time="0.001" classname="AddemployeeComponent"/>
+  <testcase name="AddemployeeComponent should display error if name has one character" time="0.001" classname="AddemployeeComponent"/>
+  <testcase name="EmployeeComponent should create" time="0.009" classname="EmployeeComponent"/>
+  <testcase name="AppComponent should render title" time="0.002" classname="AppComponent"/>
+  <testcase name="EmployeeService should retrieve all employees" time="0.002" classname="EmployeeService"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
