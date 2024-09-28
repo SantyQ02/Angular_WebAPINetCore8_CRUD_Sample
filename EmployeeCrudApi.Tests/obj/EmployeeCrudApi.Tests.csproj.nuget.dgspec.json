@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {}
+    "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {}
   },
   "projects": {
-    "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {
+    "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
+        "projectUniqueName": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
         "projectName": "EmployeeCrudApi.Tests",
-        "projectPath": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
+        "projectPath": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/EmployeeCrudApi.Tests.csproj",
         "packagesPath": "/Users/santi/.nuget/packages/",
-        "outputPath": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/obj/",
+        "outputPath": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/santi/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
-                "projectPath": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj"
+              "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
+                "projectPath": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj"
               }
             }
           }
@@ -61,7 +61,7 @@
             },
             "coverlet.collector": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             },
             "xunit": {
               "target": "Package",
@@ -92,14 +92,14 @@
         }
       }
     },
-    "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
+    "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
+        "projectUniqueName": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
         "projectName": "EmployeeCrudApi",
-        "projectPath": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
+        "projectPath": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/EmployeeCrudApi.csproj",
         "packagesPath": "/Users/santi/.nuget/packages/",
-        "outputPath": "/Users/santi/Documents/UCC/2024/Ing-Soft-III/TP6/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/obj/",
+        "outputPath": "/Users/santi/Documents/UCC/2024/Angular_WebAPINetCore8_CRUD_Sample/EmployeeCrudApi/EmployeeCrudApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/santi/.nuget/NuGet/NuGet.Config"
